@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "Mumtoz oʻzbek adabiyoti va gʻazalshunoslik boʻyicha ilmiy-badiiy tahlil platformasi. Gʻazallardagi sheʼriy sanʼatlar, baytlar maʼnosi, aruz vazni hamda irfoniy-falsafiy gʻoyaviy mazmunni chuqur tushuntiruvchi mutaxassis-olim tizimi.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "G'azalshunos: Mumtoz Adabiyot Tahlili",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "G'azalshunos",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://g-azal.netlify.app/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "1024x1024",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1024,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "uz"
+}
