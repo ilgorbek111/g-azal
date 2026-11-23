@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "description": "Mumtoz oʻzbek adabiyoti va gʻazalshunoslik boʻyicha ilmiy-badiiy tahlil platformasi.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "G'azalshunos: Mumtoz Adabiyot Tahlili",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "G'azalshunos",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "uz"
+}
