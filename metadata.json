@@ -1,0 +1,6 @@
+{
+  "name": "Gʻazalshunos: Mumtoz Adabiyot Tahlili",
+  "description": "Mumtoz oʻzbek adabiyoti va gʻazalshunoslik boʻyicha ilmiy-badiiy tahlil platformasi. Gʻazallardagi sheʼriy sanʼatlar, baytlar maʼnosi, aruz vazni hamda irfoniy-falsafiy gʻoyaviy mazmunni chuqur tushuntiruvchi mutaxassis-olim tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
